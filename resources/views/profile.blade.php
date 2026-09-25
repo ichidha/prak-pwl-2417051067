@@ -30,10 +30,6 @@
             </div>
         </div>
 
-        <a href="https://forms.gle/BK1ozYJpWnYfLB1SA" target="_blank" class="w-full mt-2 bg-[#fcd34d] border-2 border-black rounded-xl p-3 text-center font-bold text-black shadow-[4px_4px_0px_0px_#000] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[2px_2px_0px_0px_#000] transition-all">
-            Kumpul Tugas & Daftar Hadir
-        </a>
-
     </div>
 
 </body>
